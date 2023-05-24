@@ -1,0 +1,11 @@
+{
+  "name": "cryptocoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudine Kevin Dwight Cyrie",
+  "license": "ISC"
+}
